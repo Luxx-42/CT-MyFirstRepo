@@ -1,0 +1,4 @@
+1. I figured out how to add a path for desktop vs code instead using vs code in 
+anaconda all the time.
+
+2. Vs code
